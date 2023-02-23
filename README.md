@@ -1,4 +1,4 @@
 # Guessing_game
-This is my first program that I wrote w/o any troubles on java.
-There is no any difficulties to understand what does this program.
+Rules : to find out the guess number by machine (I will add new function like, machine will try to guess the number) within 10 tries
+if u wrote wrong number then it says that number lower or higher than yours
 The project is located in the bin\bin
